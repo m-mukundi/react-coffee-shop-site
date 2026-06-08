@@ -4,7 +4,7 @@ A modern, full-featured coffee e-commerce storefront built with React and Vite. 
 
 ## Live Demo
 
-> **Deployed App:** _[Add deployed link here]_
+> https://coffe-r-us.vercel.app/
 
 ---
 
