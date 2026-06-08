@@ -1,0 +1,82 @@
+{
+  "store_info": [
+    {
+      "id": "1",
+      "name": "Coffee R Us",
+      "description": "The go-to store for all your coffee needs",
+      "tagline": "From ethical sourcing to precision roasting, we bring the world's finest beans to your cup.",
+      "phone_number": "555-5555",
+      "email": "hello@coffeesrus.com",
+      "address": "Portland, Oregon"
+    }
+  ],
+  "coffees": [
+    {
+      "id": "1",
+      "name": "Midnight Velvet",
+      "description": "A bold, smoky profile with notes of dark chocolate and toasted caramel. Perfect for early mornings.",
+      "origin": "Ethiopia",
+      "roast": "Dark Roast",
+      "price": 24,
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDPhl_ZPglf5xN0lbw3V0aHEK_Z14NQedJJ7f2UZmebKvSmho3O3ZSpmyETA_Miwj0X2pRLkLYVD2mPILT2kokezW7mvhrcMQG8vJgY06IF2fAU8E5xwKMo-5f57ubHz-kL57JcnSyQCXQ4m2NIUbyMUDQ57w8QLp1FEea9I_aNaSySV81zjgck0q27rwjU6lhgOrhkrT_6QLiPBstq5sjP9TP2Ltzn7lAT-GX3JZ35EHbA1dfhpRb2Tz_zJcY3tLDXF8dW1CaNXGA",
+      "featured": true,
+      "stock": 50
+    },
+    {
+      "id": "2",
+      "name": "Highland Bloom",
+      "description": "Fruity and bright with floral jasmine undertones and a clean, citrus finish. Ideal for pour-over.",
+      "origin": "Colombia",
+      "roast": "Medium Roast",
+      "price": 22.5,
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuAtgA3A4bEgeb2frP5BEoOfNj0BI1LpgIdtct4NGl4EXby4BJnSlm-bXFfeb3avMs-3JsTsxYzACjKh6SYl9XaECwXiY_DEZll8ZpGw0qMbbCgbB-G-rbIfTFrxuQmSd1umpL6nT0g_w6ow65R36bzV0vFbyz8dmVn5Vn-Pyh85uZ_zegRk_zsxZ6FDHaN7sDKtwfGqz4uXzSYJyCCZHhk58tUlr2tfpGb2WnZtz3tL79PQXiyrCpgLqNMrW-NKQz7BLz8GZs2OiAg",
+      "featured": true,
+      "stock": 35
+    },
+    {
+      "id": "3",
+      "name": "Golden Sunrise",
+      "description": "Nuanced sweetness with hint of honey and toasted almond. Low acidity and smooth body.",
+      "origin": "Guatemala",
+      "roast": "Light Roast",
+      "price": 26,
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuBD9mti6SV2CyWrrKyeN_E5liigN84Zzm6_vC5BhSXkETqA4YYJpnkd2WDO9FhATgq7NohaNmXSB0Ra_v-wGHaQZCpF93xT8HFhrsLtT_SQ3hytKR10B9mchsvK-YKGETorjrW_3jLLe_-csOiFP8ef5IZFmVMlCaSHvN56nly8YJ-BMlFvtSmxuZrnnsZhn-zYzCHlYi4-SE98bY4gkOIH5rv00VRHkQJdG9pKXjcP4TsneGnrHt6b0_rp53cnQtvSsH3cO9qqZBU",
+      "featured": true,
+      "stock": 28
+    },
+    {
+      "id": "4",
+      "name": "Silk Road Espresso",
+      "description": "Intense and complex with layers of dark cherry, cardamom, and a velvet-smooth finish. Built for espresso.",
+      "origin": "Brazil",
+      "roast": "Dark Roast",
+      "price": 28,
+      "image": "https://images.unsplash.com/photo-1447933601403-0c6688de566e?w=600&q=80",
+      "featured": false,
+      "stock": 42
+    },
+    {
+      "id": "6",
+      "name": "Tierra Rica",
+      "description": "Earthy and balanced with a chocolate malt backbone and mild caramel sweetness. Great for drip coffee.",
+      "origin": "Colombia",
+      "roast": "Medium Roast",
+      "price": 21,
+      "image": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?w=600&q=80",
+      "featured": false,
+      "stock": 55
+    },
+    {
+      "name": "Arabica Gold",
+      "origin": "Kenya",
+      "description": "Really good coffee",
+      "price": 29.99,
+      "roast": "Medium Roast",
+      "image": "",
+      "featured": true,
+      "stock": 5,
+      "id": "61aZyNinrMY"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
